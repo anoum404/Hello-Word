@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": -1,
+    "editor.fontsize": 24,
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "notebook.compactView": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "clear ; python -u",
+    },
+    "code-runner.ignoreselection": true,
+    "python.defaultInterpreterPath": "python",
+    "workbench.iconTheme": "material-icon-theme",
+}
